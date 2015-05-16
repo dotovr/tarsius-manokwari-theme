@@ -1,3 +1,2 @@
-# tarsius-manokwari-theme
-Manokwari Theme Unofficial
+# Manokwari Theme Unofficial
 
